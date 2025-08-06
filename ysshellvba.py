@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Payload from Yavuz Sahbaz @ysahbaz
-# https://yavuzsahbaz.github.io/
+# Payload from YSah44 
+
 
 import sys
 import base64
