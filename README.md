@@ -8,7 +8,7 @@
 
  Reverse Shell Base64 PowerShell Payload Generator for Office Documents and Macros
 
-This is a reverse shell payload generator written in Python by Yavuz Sahbaz. It generates a PowerShell base64 encoded command-line payload that connects to a specified IP address and port.
+This is a reverse shell payload generator written in Python by Y S. It generates a PowerShell base64 encoded command-line payload that connects to a specified IP address and port.
 
 ## Usage
 
